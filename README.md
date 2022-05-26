@@ -4,3 +4,6 @@ MIT Exercise in understanding JavaScript and CSS by manipulating objects based o
 No adjustments needed to run this on your computer. 
 
 Potential next steps on this exercise may include adding dots for the PacMan to eat.
+
+License
+This project is under license from MIT. For more details, see the LICENSE file.
